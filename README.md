@@ -1,6 +1,6 @@
 ### Olá 👋 sou Israel Zemmuner
 
-- 🌱 Estou aprendendo Python, MySQL, HTML5, CSS3, JavaScript, NodeJs, ReactJs, Java, Kotlin
+- 🌱 Estou me aprofundando em: Python, MySQL, HTML5, CSS3, JavaScript, NodeJs, ReactJs, Java, Kotlin
 - 👯 Procuro colaborar com a necessidade de tornar a vida das pessoas mais facil!
 - 📫 Meu contato é: israelzemmuner2@gmail.com
 - 😄 Pronouns: ele/dele
