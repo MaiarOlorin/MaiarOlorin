@@ -3,7 +3,6 @@
 - 🌱 Estou me aprofundando em: Python, MySQL, HTML5, CSS3, JavaScript, NodeJs, ReactJs, Java, Kotlin
 - 👯 Procuro colaborar com a necessidade de tornar a vida das pessoas mais facil!
 - 📫 Meu contato é: israelzemmuner2@gmail.com
-- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: THE JOOJ!
 
 <div style="display: inline_block"  align="center"><br>
